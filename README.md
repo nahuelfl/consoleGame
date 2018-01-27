@@ -1,7 +1,7 @@
 # C++ Game
 Simple console game created using C++
 
-Game features: 
+Game features: <br>
 ◦Character graphics
 ◦Playable on the console 
 ◦Game statistics available
